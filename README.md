@@ -1,5 +1,5 @@
 # JavaPrograms
 Some programs in Java -
-    FizzBuzz
-    Calculator
-    Mortgage Calculator
+    I]   FizzBuzz
+    II]  Calculator
+    III] Mortgage Calculator
